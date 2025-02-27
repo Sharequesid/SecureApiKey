@@ -1,5 +1,7 @@
 # How to Secure API keys in android we will see 2 different approaches to do that
 
+### this is only for demo purpose please don't add gradle.properties and local.properties into git
+
 ## 1. Using gradle.properties - Recommended to use
 - By default, Gradle uses a file called gradle.properties in the root directory for Android Projects. This extension file is widely used in Java projects, so it is also used for Android projects. The file has a simple key — value data structure.
 - Declare two variable in gradle.properties file 
